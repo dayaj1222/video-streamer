@@ -1,0 +1,36 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+videostreamer 
+*.out
+
+# Test binaries
+*.test
+
+# Vendor folder (if you ever use it)
+vendor/
+
+# Go module cache
+go.sum
+
+# Editor temp files
+*.swp
+*.swo
+*~
+
+# IDE / Editor directories
+.idea/
+.vscode/
+*.iml
+*.nvim
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+tmp/
